@@ -1,0 +1,16 @@
+Thesis reference breif understanding
+
+[1] A_Review_of_Body_Measurement_Using_3D_Scanning
+1st thesis is a review of the mothod of body measurement methods - 2D & 3D. 
+This thesis was the key to decide to use CNN for the project
+
+[2] Automatic Estimation of Anthropometric Human Body Measurements
+2nd thesis is reviewed from the 1st thesis. It contains overall architecture and training hyperparameter for the designed AI model "Conv_BoDiEs"
+
+[3] SMPL2015
+This thesis is for the understanding of the training and evaluation dataset used in this project.
+Synthesized SMPL dataset is used in this project.
+
+[4] U2Net_PR_2020
+This thesis is for the background removal or so called segmentation for this project
+The pretrained model is used.

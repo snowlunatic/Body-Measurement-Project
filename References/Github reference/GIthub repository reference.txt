@@ -1,0 +1,3 @@
+GIthub repository reference
+1. SMPL: https://github.com/CalciferZh/SMPL
+2. U2Net: https://github.com/xuebinqin/U-2-Net

@@ -1,0 +1,7 @@
+Hardware Specification
+1. Mirror - size: 120x40x5 
+2. Half Mirror Film - "하프미러 25" (Transmittance 18%, Reflectance 53%)
+3. Aluminum Profile 30x30
+4. Webcam - "홈플래닛", QHD(1944P), 30FPS, AutoFocus, FOV: 110 degree angle
+5. LCD Panel - 7inch, 1024x600
+6. Battery - 10000mAh, Output: 5V, 2.0A

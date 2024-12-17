@@ -1,0 +1,18 @@
+SMPL:
+https://skeletex.xyz/portfolio/datasets
+
+BodyM:
+참고 사이트 - https://registry.opendata.aws/bodym/
+
+이 데이터는 Amazon AWS로 다운을 받아야 한다. 
+1. AWS CLI 설치: https://docs.aws.amazon.com/ko_kr/cli/v1/userguide/install-windows.html
+해당 사이트에서 프로그램을 설치 해주도록 한다. 이를 통해 AWS 접근이 가능해진다. 
+aws --version : 이 명령어로 설치 확인
+2. 명령창 열기
+3. S3 버팃 내용 보기: 
+aws s3 ls --no-sign-request s3://amazon-bodym/
+4. 특정 파일 다운로드 or 전체 파일 다운로드
+특정 파일: aws s3 cp --no-sign-request s3://amazon-bodym/파일경로 ~/다운로드/파일이름
+전체 파일: aws s3 sync --no-sign-request s3://amazon-bodym/ ~/다운로드/디렉토리명
+
+

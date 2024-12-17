@@ -1,0 +1,1 @@
+https://huggingface.co/spaces/hylee/u2net_portrait/tree/main/U-2-Net/saved_models
